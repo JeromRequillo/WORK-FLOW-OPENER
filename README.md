@@ -60,4 +60,3 @@ The script utilizes advanced Batch scripting techniques:
 
 ---
 
-Would you like me to add an **MIT License** file to your repository as well?
