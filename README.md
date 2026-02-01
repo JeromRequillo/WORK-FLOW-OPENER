@@ -1,6 +1,6 @@
 # WORK-FLOW-OPENER
 A lightweight, automated Batch Script designed for efficient file deployment and workspace management.
-Here is a professional and detailed **README.md** file written in English, optimized for a GitHub repository.
+
 This tool streamlines the process of opening multiple project files within a specific directory while providing real-time status updates and system validation.
 
 ## 🚀 Key Features
